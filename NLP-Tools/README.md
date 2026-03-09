@@ -1,4 +1,5 @@
-أدوات NLP (Natural Language Processing Tools)
+أدوات
+NLP (Natural Language Processing Tools)
 
 هذا المجلد يحتوي على جميع الأدوات والملفات المتعلقة بمعالجة اللغات الطبيعية (NLP) التي تم استخدامها أو جمعها خلال الكورس.
 
